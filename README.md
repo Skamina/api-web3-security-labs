@@ -1,4 +1,4 @@
-# api-web3-security-labs# api-web3-security-labs
+# api-web3-security-labs
 
 A collection of Web3 API security labs designed to help developers, auditors, and security enthusiasts learn about common vulnerabilities and secure coding practices in decentralized applications. This repository contains hands-on exercises, sample code, and documentation to illustrate security issues and best practices in the Web3 ecosystem.
 
